@@ -1,6 +1,8 @@
 # IMAGE_CLASSIFICATION_USING_CNN---Convolutional-Neural-Network
 CNN image classifier using TensorFlow &amp; MobileNetV2 to classify like (Cat, Dog, and Horse) images with transfer learning
 
+---
+
 # Image Classification using CNN
 
 A deep learning project that classifies images of Animals (Lion, Leopard, Tiger) , Birds (Parrot, Peacock, Owl) using Convolutional Neural Networks (CNN) with Transfer Learning approach.
@@ -56,8 +58,8 @@ pip install tensorflow numpy matplotlib
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/animal-image-classifier-cnn.git
-cd animal-image-classifier-cnn
+git clone https://github.com/s-s-shriram/IMAGE_CLASSIFICATION_USING_CNN---Convolutional-Neural-Network.git
+cd IMAGE_CLASSIFICATION_USING_CNN---Convolutional-Neural-Network
 ```
 
 2. Open the notebook in Google Colab or Jupyter Notebook
@@ -88,7 +90,7 @@ cd animal-image-classifier-cnn
 
 ## 📈 Results
 
-The model achieves high accuracy in classifying the three animal classes with minimal training time due to transfer learning.
+The model achieves high accuracy in classifying the classes with minimal training time due to transfer learning.
 
 ## 🤝 Contributing
 
@@ -101,26 +103,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@SHRIRAM S S](https://github.com/s-s-shriram)
 
 ## 🙏 Acknowledgments
 
 - MobileNetV2 architecture from TensorFlow/Keras
 - Pre-trained weights from ImageNet dataset
-```
 
 ---
 
-## GitHub Topics/Tags to Add:
-```
-deep-learning
-machine-learning
-image-classification
-cnn
-tensorflow
-keras
-transfer-learning
-computer-vision
-python
-mobilenet
-animal-classification
+## 🏷️ Project Tags
+
+#DeepLearning #MachineLearning #ArtificialIntelligence #AI  
+#NeuralNetworks #CNN #ImageClassification #ComputerVision  #transfer-learning
+#Python #TensorFlow #Keras #NumPy #OpenCV #Matplotlib #DataScience  
+#ImageProcessing #ModelTraining #Prediction #Dataset #Research #MLProject #mobilenet
+#animal-classification #fruit-Classification
